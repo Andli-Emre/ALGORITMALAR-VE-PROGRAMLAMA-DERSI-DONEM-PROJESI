@@ -36,16 +36,18 @@ Bu proje, Algoritmalar ve Programlama dersi kapsamında C programlama dili kulla
 
 -Kullanıcı -1 girene kadar program çalışmaya devam eder.
 
-Kullanılan Gezegenler ve Yerçekimi İvmeleri
-Gezegen	Yerçekimi İvmesi (m/s²)
-Merkür	3.70
-Venüs	8.87
-Dünya	9.81
-Mars	3.71
-Jüpiter	24.79
-Satürn	10.44
-Uranüs	8.69
-Neptün	11.15
+| Gezegen | Yerçekimi İvmesi (m/s²) |
+| ------- | ----------------------- |
+| Merkür  | 3.70                    |
+| Venüs   | 8.87                    |
+| Dünya   | 9.81                    |
+| Mars    | 3.71                    |
+| Jüpiter | 24.79                   |
+| Satürn  | 10.44                   |
+| Uranüs  | 8.69                    |
+| Neptün  | 11.15                   |
+
+
 Deneyler ve Kullanılan Formüller
 
 Serbest Düşme Deneyi
