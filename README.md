@@ -36,6 +36,7 @@ Bu proje, Algoritmalar ve Programlama dersi kapsamında C programlama dili kulla
 
 -Kullanıcı -1 girene kadar program çalışmaya devam eder.
 
+Kullanılan Gezegenler ve Yerçekimi İvmeleri
 | Gezegen | Yerçekimi İvmesi (m/s²) |
 | ------- | ----------------------- |
 | Merkür  | 3.70                    |
